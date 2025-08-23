@@ -1,1 +1,1 @@
-# HireX
+# AI Agent Architectures
